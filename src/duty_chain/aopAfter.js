@@ -2,7 +2,7 @@ Function.prototype.after = function (nextFn) {
   let self = this
   return function () {
     let res = self.apply(this, arguments)
-    if (res === 'next') {
+    if (res === 'next' && nextFn) {
       return nextFn.apply(this, arguments)
     }
     return res
