@@ -1,0 +1,22 @@
+{
+  "name": "github-blog",
+  "version": "1.0.0",
+  "description": "blogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunxinqiang/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunxinqiang/blog/issues"
+  },
+  "homepage": "https://github.com/Sunxinqiang/blog#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
