@@ -4,6 +4,8 @@
 
 [设计模式：职责链模式](https://github.com/Sunxinqiang/blog/blob/master/blogs/design/duty_chain.md)
 
+[设计模式：状态模式](https://github.com/Sunxinqiang/blog/blob/master/blogs/design/state.md)
+
 ## 基础
 
 [js基础：正则表达式](https://github.com/Sunxinqiang/blog/blob/master/blogs/basic/regexp.md)
