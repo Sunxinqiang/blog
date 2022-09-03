@@ -26,28 +26,59 @@
 
 ## 算法
 
-[算法：0.参考](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/0.%E5%8F%82%E8%80%83.md)
+[0.参考](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/0.参考.md)
 
-[算法：1.基础](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/1.%E5%9F%BA%E7%A1%80.md)
+[1.基础](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/1.基础.md)
 
-[算法：2.栈🔫](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/2.%E6%A0%88%F0%9F%94%AB.md)
+[2.栈🔫](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/2.栈🔫.md)
 
-[算法：3.队列👯](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/3.%E9%98%9F%E5%88%97%F0%9F%91%AF.md)
+[3.队列👯](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/3.队列👯.md)
 
-[算法：4.链表🔗](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/4.%E9%93%BE%E8%A1%A8%F0%9F%94%97.md)
+[4.链表🔗](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/4.链表🔗.md)
 
-[算法：5.集合📦](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/5.%E9%9B%86%E5%90%88%F0%9F%93%A6.md)
+[5.集合📦](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/5.集合📦.md)
 
-[算法：6.字典📚](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/6.%E5%AD%97%E5%85%B8%F0%9F%93%9A.md)
+[6.字典📚](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/6.字典📚.md)
 
-[算法：7.树🌲](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/7.%E6%A0%91%F0%9F%8C%B2.md)
+[7.树🌲](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/7.树🌲.md)
 
-[算法：8.图🎨](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/8.%E5%9B%BE%F0%9F%8E%A8.md)
+[8.图🎨](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/8.图🎨.md)
 
-[算法：9.堆💩](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/9.%E5%A0%86%F0%9F%92%A9.md)
+[9.堆💩](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/9.堆💩.md)
 
-[算法：10.排序搜索📶](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/10.%E6%8E%92%E5%BA%8F%E6%90%9C%E7%B4%A2%F0%9F%93%B6.md)
+[10.排序搜索📶](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/10.排序搜索📶.md)
 
-[算法：11.算法设计🎨](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/11.%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%F0%9F%8E%A8.md)
+[11.算法设计🎨](https://github.com/Sunxinqiang/blog/blob/master/blogs/algorithm/11.算法设计🎨.md)
 
 
+
+## shell
+
+[shell基础: 1.基础](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/1.基础.md)
+
+[shell基础: 2.模式扩展](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/2.模式扩展.md)
+
+[shell基础: 3.引号和转义](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/3.引号和转义.md)
+
+[shell基础: 4.变量](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/4.变量.md)
+
+[shell基础: 5.字符串](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/5.字符串.md)
+
+[shell基础: 6.算术运算](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/6.算术运算.md)
+
+[shell基础: 7.快捷键及目录堆栈](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/7.快捷键及目录堆栈.md)
+
+[shell基础: 8.脚本](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/8.脚本.md)
+
+[shell基础: 9.read命令](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/9.read命令.md)
+[shell基础: 10.条件判断](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/10.条件判断.md)
+
+[shell基础: 11.循环](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/11.循环.md)
+
+[shell基础: 12.函数](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/12.函数.md)
+
+[shell基础: 13.数组](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/13.数组.md)
+
+[shell基础: 14.其他命令](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/14.其他命令.md)
+
+[shell基础: 常用命令](https://github.com/Sunxinqiang/blog/blob/master/blogs/shell/常用命令.md)
