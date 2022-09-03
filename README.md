@@ -11,3 +11,5 @@
 [js基础：正则表达式](https://github.com/Sunxinqiang/blog/blob/master/blogs/basic/regexp.md)
 
 [js基础：正则表达式总结](https://github.com/Sunxinqiang/blog/blob/master/blogs/basic/regexp_summary.md)
+
+[js 基础：this指向总结及面试题](https://github.com/Sunxinqiang/blog/blob/master/blogs/basic/this.md)
